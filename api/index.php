@@ -1,12 +1,9 @@
 <?php
 require_once 'auth.php';
+require_once 'db.php';
 // =============================================
 // CONNEXION À LA BASE DE DONNÉES
 // =============================================
-$host     = 'https://gestion-notes-nine.vercel.app/';
-$dbname   = 'if0_41992281_XXX';
-$user     = 'if0_41992281';
-$password = 'WALxqqYFL6';
 
 // =============================================
 // STATISTIQUES
