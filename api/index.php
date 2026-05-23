@@ -3,7 +3,7 @@ require_once 'auth.php';
 // =============================================
 // CONNEXION À LA BASE DE DONNÉES
 // =============================================
-$host     = 'sql210.infinityfree.com';
+$host     = 'https://gestion-notes-nine.vercel.app/';
 $dbname   = 'if0_41992281_XXX';
 $user     = 'if0_41992281';
 $password = 'WALxqqYFL6';
